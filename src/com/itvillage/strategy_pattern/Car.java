@@ -10,6 +10,8 @@ public class Car {
         // 엔진 stop
         System.out.println("==== Engine stop! ====");
     }
+
+    // 전략을 제공 받는 컨텍스트
     public void moveCar(DrivingMode drivingMode){
         checkTirePressure();
         checkTemperatureInside();
