@@ -1,2 +1,8 @@
 .idea/*
 out/*
+javascript_callback_example/bin/*
+javascript_callback_example/node_modules/*
+javascript_callback_example/public/*
+javascript_callback_example/routes/
+javascript_callback_example/views/*
+javascript_callback_example/app.js

@@ -22,7 +22,6 @@ public class CarDriver {
             }
         });
 
-//        car.moveCar(() -> System.out.println("# 수동 모드로 운행을 시작합니다."));
 
         System.out.println();
         car.stopEngine();
